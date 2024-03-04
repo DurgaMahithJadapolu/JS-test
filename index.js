@@ -53,17 +53,17 @@
     // Set the correct image source based on the user's choice
     switch (userChoice) {
       case 'rock':
-        userSelectButton.querySelector('img').src = '/images/icon-rock.png';
+        userSelectButton.querySelector('img').src = '/icon-rock.png';
         userSelectButton.querySelector('img').alt = 'rock';
         userSelectButton.classList.add('btn-rock');
         break;
       case 'paper':
-        userSelectButton.querySelector('img').src = '/images/icon-paper.png';
+        userSelectButton.querySelector('img').src = '/icon-paper.png';
         userSelectButton.querySelector('img').alt = 'paper';
         userSelectButton.classList.add('btn-paper');
         break;
       case 'scissors':
-        userSelectButton.querySelector('img').src = '/images/icon-Scissors.png';
+        userSelectButton.querySelector('img').src = '/icon-Scissors.png';
         userSelectButton.querySelector('img').alt = 'scissors';
         userSelectButton.classList.add('btn-scissors');
         break;
@@ -82,7 +82,7 @@
     // Set the correct image source based on the Computer's choice
     switch (computerChoice) {
       case 'rock':
-        computerSelectButton.querySelector('img').src = '/images/icon-rock.png';
+        computerSelectButton.querySelector('img').src = '/icon-rock.png';
         computerSelectButton.querySelector('img').alt = 'rock';
         computerSelectButton.classList.add('btn-rock');
 
@@ -90,14 +90,14 @@
 
         break;
       case 'paper':
-        computerSelectButton.querySelector('img').src = '/images/icon-paper.png';
+        computerSelectButton.querySelector('img').src = '/icon-paper.png';
         computerSelectButton.querySelector('img').alt = 'paper';
         computerSelectButton.classList.add('btn-paper');
 
 
         break;
       case 'scissors':
-        computerSelectButton.querySelector('img').src = '/images/icon-Scissors.png';
+        computerSelectButton.querySelector('img').src = '/icon-Scissors.png';
         computerSelectButton.querySelector('img').alt = 'scissors';
         computerSelectButton.classList.add('btn-scissors');
 
