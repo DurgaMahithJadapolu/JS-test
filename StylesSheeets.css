@@ -239,12 +239,12 @@ body {
 }
 #rulebtn{
   position: absolute;
-  bottom: 15px;
+  bottom: 20px;
   right: 150px;
   width:105px;
   height: 30px;
   border: none;
-  border-radius: 5px;
+  border-radius: 5px
   background-color: #6B6B6B;
   color: white;
 }
