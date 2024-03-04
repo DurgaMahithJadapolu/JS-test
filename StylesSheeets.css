@@ -147,7 +147,7 @@ body {
 
 .btnnext{
    position: absolute;
-  top: 550px;
+  top: 540px;
   right: 40px;
   width:105px;
   height: 30px;
@@ -239,7 +239,7 @@ body {
 }
 #rulebtn{
   position: absolute;
-  bottom: 25px;
+  bottom: 20px;
   right: 150px;
   width:105px;
   height: 30px;
